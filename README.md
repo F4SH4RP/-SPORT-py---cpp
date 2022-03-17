@@ -26,4 +26,6 @@ arrays
 
 input() 
 
-split()? wtf how can i do that
+split()
+
+a,b = b,a ? wtf how can i do that
