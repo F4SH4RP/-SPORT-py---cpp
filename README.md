@@ -23,3 +23,7 @@ todo:
 variables
 
 arrays
+
+input() 
+
+split()? wtf how can i do that
