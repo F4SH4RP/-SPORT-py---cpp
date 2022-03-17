@@ -1,4 +1,4 @@
-# -SPORT- py -> cpp
+# sport python to cpp converter
 sport programming python to cpp code converter
 
 As we all know, python is terribly slow for solving codeforces tasks. An i'm TIRED of rewriting in cpp every single time so i thought i can do something about that...
