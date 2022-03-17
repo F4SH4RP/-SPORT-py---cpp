@@ -11,20 +11,27 @@ yet it only support
 
 'if' with multiple commands per condition
 
+'else' 
+
 'for whatever in range' with multiple commands per condition
 
 range(x), range(x,y) and range(x,y,z)
 
+input (for string)
+
+int(input() (for int) # all int's are yet long longs
+
+int vars (still long longs) like a = 5 or b=1704
+
+
 
 todo:
 
-'else' and maybe 'elif'
-
-variables
+maybe 'elif'
 
 arrays
 
-input() 
+var string
 
 split()
 
