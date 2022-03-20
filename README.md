@@ -1,5 +1,6 @@
 # sport python to cpp converter
-sport programming python to cpp code converter
+# WARNING!!1 SHITCODE!!1
+dirty sport programming python to cpp code converter
 
 As we all know, python is terribly slow for solving codeforces tasks. An i'm TIRED of rewriting in cpp every single time so i thought i can do something about that...
 
@@ -25,14 +26,9 @@ int vars (still long longs) like a = 5 or b=1704
 
 
 
-todo:
+todo: maybe 'elif'   arrays    var string    split()    a,b = b,a?    random    for i in [arr]
 
-maybe 'elif'
 
-arrays
+#TESTS
 
-var string
-
-split()
-
-a,b = b,a ? wtf how can i do that
+i made some tests to make it easier to detect any errors. those do just execute python code and write results to answers2, then translate python to cpp, compile and run writing to answers1. then you can manually compare files yourself, use diff, or read files and compare them in python as strings. i do it b4 make any changes so i can be sure i broke nothing 
